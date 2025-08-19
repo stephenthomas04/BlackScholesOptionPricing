@@ -1,0 +1,1 @@
+This Python program implements the Black-Scholes-Merton model to calculate the theoretical prices of European call and put options. By inputting key parameters such as underlying price, strike price, time to expiration, risk-free rate, and volatility, it computes intermediary values (d1 and d2) and outputs the option prices.
